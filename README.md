@@ -1,5 +1,4 @@
-# lab-python
+<!-- create conda -p cenv python=3.11 -y  -->
+<!-- conda activate cenv -->
+<!-- python setup.py install  -->
 
-Command to run main.py file:
-
-```python main.py```
