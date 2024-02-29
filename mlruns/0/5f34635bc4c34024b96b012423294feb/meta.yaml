@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/CreditCardFraudDetectionMLProject/mlruns/0/5f34635bc4c34024b96b012423294feb/artifacts
+end_time: 1709185470024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f34635bc4c34024b96b012423294feb
+run_name: smiling-stoat-227
+run_uuid: 5f34635bc4c34024b96b012423294feb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709185466396
+status: 3
+tags: []
+user_id: user

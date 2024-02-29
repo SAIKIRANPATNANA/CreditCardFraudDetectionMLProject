@@ -1,0 +1,9 @@
+digest: 850f6b2d
+name: dataset
+profile: '{"features_shape": [963, 23], "features_size": 22149, "features_nbytes":
+  88596}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 23]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "/home/user/Documents/ML_DL_PROJECTS/CreditCardFraudDetectionMLProject/src/CreditCardFraudDetectionMLProject/pipelines/training_pipeline.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "b81a4d2201224426568bdb2f28e117b5f5ba57ea"}}'
+source_type: code

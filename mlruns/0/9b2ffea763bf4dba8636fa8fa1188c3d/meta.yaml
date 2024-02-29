@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Documents/ML_DL_PROJECTS/CreditCardFraudDetectionMLProject/mlruns/0/9b2ffea763bf4dba8636fa8fa1188c3d/artifacts
+end_time: 1709185473012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b2ffea763bf4dba8636fa8fa1188c3d
+run_name: selective-eel-29
+run_uuid: 9b2ffea763bf4dba8636fa8fa1188c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709185471057
+status: 3
+tags: []
+user_id: user

@@ -9,4 +9,9 @@ matplotlib
 streamlit
 xgboost
 requests
-
+#   export PYTHONPATH=$PYTHONPATH:/home/user/Documents/ML_DL_PROJECTS/CreditCardFraudDetectionMLProject/src
+#pendings:
+# prediction pipeline
+# app creation 
+# dvc integration 
+# dockerization
