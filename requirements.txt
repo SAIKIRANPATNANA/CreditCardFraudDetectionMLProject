@@ -8,4 +8,4 @@ dvc
 matplotlib
 streamlit
 xgboost
-# dockerization
+
